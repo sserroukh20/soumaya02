@@ -6,6 +6,11 @@ body {
 	font-family: Arial, Helvetica, sans-serif ;
 	background-image: url("http://www.colores.org.es/imagenes_colores/pastel-violeta.jpg  ")
 }
+h2 { color: purple;
+
+font-weight: bold; 
+} 
+
 img {
 	max-width: 100% ;
 	width: auto ;
